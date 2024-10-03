@@ -1,16 +1,2 @@
 https://www.livius.org/sources/content/behistun-persian-text/behistun-t-33/
-\ thâtiy \ Dârayavauš \ xšâyathiya \ ima \ t
-ya \ manâ \ kartam \ Bâbirauv \ thatiy \ D
-ârayavauš \ xšâyathiya \ ima \ tya \ adam \ akuna
-vam \ vašna \ Auramazdâha \ hamahyâyâ \ thar
-da \ pasâva \ yathâ \ xšâyathiya \ abavam \ XIX \ hamaran
-â \ akunavam \ vašnâ \ Auramazdâha \ adamšiš \ a
-janam \ utâ \ IX \ xšâyathiyâ \ agarbâyam \ I Gaumâta \
-nâma \ maguš \ âha \ hauv \ adurujiya \ avathâ \ athaha \ adam \
-Bardiya \ amiy \ hya \ Kûrauš \ puça \ hauv \ Pârsam \ ha
-miçiyam \ akunauš \ I Âçina \ nâma \ Ûvjiya \ hauv \ adu
-rujiya \ avathâ \ athaha \ adam \ xšâyathiya \ amiy \ Ûvjaiy \
-King Darius says: This is what was done by me in Babylon.
-King Darius says: This is what I have done. By the grace of Ahuramazda have I always acted. After I became king, I fought nineteen battles in a single year and by the grace of Ahuramazda I overthrew nine kings and I made them captive.
-One was named Gaumâta, the Magian; he lied, saying 'I am Smerdis, the son of Cyrus.' He made Persia to revolt.
-Another was named Âššina, the Elamite; he lied, saying: 'I am king the king of Elam.'
+thâtiy Dârayavauš xšâyathiya ima tya manâ kartam Bâbirauv thatiy Dârayavauš xšâyathiya ima tya adam akunavam vašna Auramazdâha hamahyâyâ tharda pasâva yathâ xšâyathiya abavam XIX hamaranâ akunavam vašnâ Auramazdâha adamšiš ajanam utâ IX xšâyathiyâ agarbâyam I Gaumâtanâma maguš âha hauv adurujiya avathâ athaha adamBardiya amiy hya Kûrauš puça hauv Pârsam hamiçiyam akunauš I Âçina nâma Ûvjiya hauv adurujiya avathâ athaha adam xšâyathiya amiy Ûvjaiy<sep>King Darius says: This is what was done by me in Babylon.King Darius says: This is what I have done. By the grace of Ahuramazda have I always acted. After I became king, I fought nineteen battles in a single year and by the grace of Ahuramazda I overthrew nine kings and I made them captive.One was named Gaumâta, the Magian; he lied, saying 'I am Smerdis, the son of Cyrus.' He made Persia to revolt.Another was named Âššina, the Elamite; he lied, saying: 'I am king the king of Elam.'

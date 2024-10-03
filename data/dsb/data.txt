@@ -1,13 +1,12 @@
 https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dsb/
-adam \ Dârayavau
-š \ xšâyathiya
-\ vazraka \ xšâya
-thiya \ xšâyathi
-yânâm \ xšâya
-thiya \ dahyunâ
-m \ xšâyathiya \
-haruvahyâya \
-bumiyâ \ Višt
-âspahyâ \ puça
-\ Haxâmanišiya \
-I am Darius, the great king, king of kings, king of all nations, king of the entire earth, the son of Hystaspes, an Achaemenid.
+adam Dârayavau
+š xšâyathiya
+vazraka xšâya
+thiya xšâyathi
+yânâm xšâya
+thiya dahyunâ
+m xšâyathiya
+haruvahyâya
+bumiyâ Višt
+âspahyâ puça
+Haxâmanišiya<sep>I am Darius, the great king, king of kings, king of all nations, king of the entire earth, the son of Hystaspes, an Achaemenid.

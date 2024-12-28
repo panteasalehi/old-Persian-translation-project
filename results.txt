@@ -72,3 +72,64 @@ batch 2
 |      maiy ima xšaçam frâbara       |         gave me this kingdom         |          my kingdom         |
 |       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |  A great god is Ahuramazda  |
 +------------------------------------+--------------------------------------+-----------------------------+
+
+
+epoch 9
+batch 1
+
++------------------------------------+--------------------------------------+---------------------------------+
+| Adam Dârayavauš xšâyathiya vazraka |      I am Darius the great king      |         I am great king         |
+|     aivam parûvnâm xšâyathiyam     |          one king for many           | one commander of all commanders |
+|          hya martiyam adâ          |           who created man            |         who created man         |
+|       hauv xšâyathiya abava        |            he became king            |          He became king         |
+|        hya avam asmânam adâ        |        who created yonder sky        |         who is the stone        |
+|   šiyâtim hauv agarbâyatâ vavam    | he seized the happiness of my family |          he became the          |
+|      Yadiy Pârsa pâta ahatiy       | If the Persian people are protected  |          If the people          |
+|          Ariya Ariya ciça          |      an Aryan of Aryan descent       |        An Aryan of Aryan        |
+|        xšâyathiya dahyunam         |         king of all nations          |           all nations           |
+|      maiy ima xšaçam frâbara       |         gave me this kingdom         |       and what I have made      |
+|       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |    A great god is Ahuramazda    |
++------------------------------------+--------------------------------------+---------------------------------+
+
+
+epoch 6
+batch 1
++------------------------------------+--------------------------------------+-------------------------------------------------------------------------+
+|              Sentence              |           Data Translation           |                            Model Translation                            |
++------------------------------------+--------------------------------------+-------------------------------------------------------------------------+
+| Adam Dârayavauš xšâyathiya vazraka |      I am Darius the great king      |                        I am Darius the great king                       |
+|     aivam parûvnâm xšâyathiyam     |          one king for many           |                            one ruler for all                            |
+|          hya martiyam adâ          |           who created man            |                            He seized the man                            |
+|       hauv xšâyathiya abava        |            he became king            |              He became my became my became my became my law             |
+|        hya avam asmânam adâ        |        who created yonder sky        |                                  my law                                 |
+|   šiyâtim hauv agarbâyatâ vavam    | he seized the happiness of my family |                    he seized the earth was my family                    |
+|      Yadiy Pârsa pâta ahatiy       | If the Persian people are protected  |                If the stone columns which I am not my law               |
+|          Ariya Ariya ciça          |      an Aryan of Aryan descent       |                             an Aryan lineage                            |
+|        xšâyathiya dahyunam         |         king of all nations          |                           nations have nations                          |
+|      maiy ima xšaçam frâbara       |         gave me this kingdom         |                           gave me this nations                          |
+|       baga vazraka Auramazdâ       |      A great god is Ahuramazda       | The great god Ahuramazda gave to the great god the great god Ahuramazda |
++------------------------------------+--------------------------------------+-------------------------------------------------------------------------+
+
+
+
+num_heads = 8
+ff_dim = 1024
+epoch 6
+batch 4
+
++------------------------------------+--------------------------------------+---------------------------+
+|              Sentence              |           Data Translation           |     Model Translation     |
++------------------------------------+--------------------------------------+---------------------------+
+| Adam Dârayavauš xšâyathiya vazraka |      I am Darius the great king      |      I am great king      |
+|     aivam parûvnâm xšâyathiyam     |          one king for many           |      one lord of many     |
+|          hya martiyam adâ          |           who created man            |      who created man      |
+|       hauv xšâyathiya abava        |            he became king            |    He became the people   |
+|        hya avam asmânam adâ        |        who created yonder sky        |    who created this man   |
+|   šiyâtim hauv agarbâyatâ vavam    | he seized the happiness of my family |          he he he         |
+|      Yadiy Pârsa pâta ahatiy       | If the Persian people are protected  |     If the people are     |
+|          Ariya Ariya ciça          |      an Aryan of Aryan descent       |    Aryan descent built    |
+|        xšâyathiya dahyunam         |         king of all nations          |        The nations        |
+|      maiy ima xšaçam frâbara       |         gave me this kingdom         |       and my kingdom      |
+|       baga vazraka Auramazdâ       |      A great god is Ahuramazda       | A great god is Ahuramazda |
++------------------------------------+--------------------------------------+---------------------------+
+

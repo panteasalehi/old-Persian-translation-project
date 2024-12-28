@@ -52,3 +52,23 @@ batch 2
 |      maiy ima xšaçam frâbara       |         gave me this kingdom         |                                                                            gave me this countries                                                                            |
 |       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |                                                                                A great god is                                                                                |
 +------------------------------------+--------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+epoch 6
+batch 2
+
++------------------------------------+--------------------------------------+-----------------------------+
+|              Sentence              |           Data Translation           |      Model Translation      |
++------------------------------------+--------------------------------------+-----------------------------+
+| Adam Dârayavauš xšâyathiya vazraka |      I am Darius the great king      |       I am I am ruling      |
+|     aivam parûvnâm xšâyathiyam     |          one king for many           |      One king for many      |
+|          hya martiyam adâ          |           who created man            |       Who created man       |
+|       hauv xšâyathiya abava        |            he became king            |        He became king       |
+|        hya avam asmânam adâ        |        who created yonder sky        |    Who created this earth   |
+|   šiyâtim hauv agarbâyatâ vavam    | he seized the happiness of my family |         he chose me         |
+|      Yadiy Pârsa pâta ahatiy       | If the Persian people are protected  | If the people are protected |
+|          Ariya Ariya ciça          |      an Aryan of Aryan descent       |        Aryan of Aryan       |
+|        xšâyathiya dahyunam         |         king of all nations          |   all nations the nations   |
+|      maiy ima xšaçam frâbara       |         gave me this kingdom         |          my kingdom         |
+|       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |  A great god is Ahuramazda  |
++------------------------------------+--------------------------------------+-----------------------------+

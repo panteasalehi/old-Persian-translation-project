@@ -35,3 +35,20 @@ batch 4
 |       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |      A great god is Ahuramazda       |
 +------------------------------------+--------------------------------------+--------------------------------------+
 
+epoch 10
+batch 2
++------------------------------------+--------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|              Sentence              |           Data Translation           |                                                                              Model Translation                                                                               |
++------------------------------------+--------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Adam Dârayavauš xšâyathiya vazraka |      I am Darius the great king      |                                                                          I am Darius the great king                                                                          |
+|     aivam parûvnâm xšâyathiyam     |          one king for many           |                                                                              one ruler of many                                                                               |
+|          hya martiyam adâ          |           who created man            |                                                                               who created man                                                                                |
+|       hauv xšâyathiya abava        |            he became king            |                                                                                He became king                                                                                |
+|        hya avam asmânam adâ        |        who created yonder sky        |                                                                             Who created that man                                                                             |
+|   šiyâtim hauv agarbâyatâ vavam    | he seized the happiness of my family |                                                                           he seized the other land                                                                           |
+|      Yadiy Pârsa pâta ahatiy       | If the Persian people are protected  |                                                                     If the Persian people are protected                                                                      |
+|          Ariya Ariya ciça          |      an Aryan of Aryan descent       | an Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan having Aryan lineage |
+|        xšâyathiya dahyunam         |         king of all nations          |                                                                           the king of all nations                                                                            |
+|      maiy ima xšaçam frâbara       |         gave me this kingdom         |                                                                            gave me this countries                                                                            |
+|       baga vazraka Auramazdâ       |      A great god is Ahuramazda       |                                                                                A great god is                                                                                |
++------------------------------------+--------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
